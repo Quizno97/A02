@@ -20,7 +20,7 @@ So you want to get started with Git, Github, and an editor. For teh editor we'll
 
 Congrats! You've now made your first webstorm project and pushed it to github. There are tons of things to do with this knowledge.
 
-# **TERMS
+# TERMS
  - **Branch** - Copy of the code at a certain point in time.
  - **Clone** - Create a copy locally to your machine of the code base.
  - **Commit** - Saves the local files that have been changed with a message stating what has been changed.
