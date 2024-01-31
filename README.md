@@ -1,3 +1,4 @@
+# Richard Tyrrell IS 117 004
 # A02
 So you want to get started with Git, Github, and an editor. For teh editor we'll talk about using Jetbrains Webstorm. This editor is very powerful because it's not a lightweight text editor such as VS Code or Notepad++. It's a full on IDE, or Integrated Development Environment. We'll start with getting webstorm up and running then move to git/github.
 
