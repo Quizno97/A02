@@ -9,3 +9,5 @@
  - **Merge Conflict** - Conflicting changes between two branches. If you changed index.html in branch 1 and in branch 2 and commit them at the same time github will throw an error.
  - **Push** - Deploys changes from local to the remotely hosted code base.
  - **Pull** - Copies remote cobe base to local machine
+ - **Remote** - Typically refers to the cloud or something that isn't directly in front of you such as creating a pull request for a code base.
+ - **Repository** - location for code base, images, files, anything relating to a project. Typically hosted remotely on places like github.
